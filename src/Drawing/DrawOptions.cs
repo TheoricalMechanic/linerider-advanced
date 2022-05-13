@@ -11,7 +11,7 @@ namespace linerider.Drawing
         public bool GravityWells = false;
         public bool NightMode=false;
         public KnobState KnobState = 0;
-        public float Blend = 1;
+        public float Blend = 2;
         public bool Overlay = false;
         public Rider Rider;
         public bool DrawFlag;
